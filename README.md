@@ -96,14 +96,6 @@ This repository is intended for:
 
 It is not a substitute for detailed aircraft performance analysis or certified flight dynamics tools.
 
-## Example Visualization
-
-The repository includes a motion preview of the simulation below:
-
-<p align="center">
-  <img src="TakeOff.gif" alt="Simulation animation preview" width="900" />
-</p>
-
 ## Author
 
 Kaique Fernandes
